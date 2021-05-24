@@ -1,2 +1,3 @@
 # revoi
-Representative Volume-of-Interest of porous materials
+Determination of the representative Volume-of-Interest of porous materials
+
